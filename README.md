@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**anawagner/anawagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ana Wagner. I am a Software Engineer with a passion for learning and sharing knowledge.
+I am interested in:
 
-Here are some ideas to get you started:
+- 💻 Haskell
+- 🐍 Python
+- 🌐 Full Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+
+
+
+[![Full Stack Java React](full-stack-java-react.png)](https://www.credly.com/badges/fc812b8e-7479-4b92-82f4-c193867dbc18/public_url)
+
+
