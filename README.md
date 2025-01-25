@@ -3,7 +3,7 @@
 I am Ana Wagner. I am a Software Engineer with a passion for learning and sharing knowledge.
 I am interested in:
 
-- 💻 Haskell
+- &lambda; Haskell
 - 🐍 Python
 - 🌐 Full Stack Web Development
 
